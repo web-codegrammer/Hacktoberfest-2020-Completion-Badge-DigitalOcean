@@ -4,23 +4,14 @@
 
 # By gaining this badge now i came to know about how to work as open source contributor 
 
-- Program with JavaScript Operators, Methods, and Keywords
 
-- Program with Variables, Data Types, and Functions
-
-- Implement and Analyze Decisions and Loops
-
-- Interact with the Document Object Model
-
-- Interact with HTML Forms
-
-
+![alt text](https://github.com/web-codegrammer/Hacktoberfest-2020-Completion-Badge-DigitalOcean/blob/main/Hacktoberfest%202020%20Badge/hacktoberfest2020-badge.png)
 
 ## You can Directly view my claimed Badge Here 👉👉 [Badge Link](https://dev.to/badge/hacktoberfest-2020)
 
 # My Badge
 
-![alt text](https://github.com/web-codegrammer/Microsoft-Technolgy-Assocaiate-Javascript-Programming-Badge-MTA-98-382-/blob/main/MTA%20JS%20Badge/mta-introduction-to-programming-using-javascript-certified-2020.png)
+![alt text](https://github.com/web-codegrammer/Hacktoberfest-2020-Completion-Badge-DigitalOcean/blob/main/Hacktoberfest%202020%20Badge/hacktoberfest2020-badge%20full.png)
 
 ## License 
 
