@@ -7,7 +7,7 @@
 
 ![alt text](https://github.com/web-codegrammer/Hacktoberfest-2020-Completion-Badge-DigitalOcean/blob/main/Hacktoberfest%202020%20Badge/hacktoberfest2020-badge.png)
 
-# You can Directly view my claimed Badge Here 👉👉 [Badge Link](https://dev.to/badge/hacktoberfest-2020)
+> You can Directly view my claimed Badge Here 👉👉 [Badge Link](https://dev.to/badge/hacktoberfest-2020)
 
 # My Badge
 
