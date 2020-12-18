@@ -15,6 +15,6 @@
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Microsoft-Technolgy-Assocaiate-Javascript-Programming-Badge-MTA-98-382-/blob/main/LICENSE)
+[MIT](https://github.com/web-codegrammer/Hacktoberfest-2020-Completion-Badge-DigitalOcean/blob/main/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | Copyright (c) 2020-2021 web-codegrammer All Rights Reserved | 2020
