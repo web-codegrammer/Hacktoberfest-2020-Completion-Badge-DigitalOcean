@@ -17,4 +17,4 @@
 
 [MIT](https://github.com/web-codegrammer/Hacktoberfest-2020-Completion-Badge-DigitalOcean/blob/main/LICENSE)
 
-Issued to ```Devanshu Vashishtha``` | Copyright (c) 2020-2021 web-codegrammer All Rights Reserved | 2020
+Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2020-2021 web-codegrammer All Rights Reserved | 2020
